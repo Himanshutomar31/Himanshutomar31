@@ -8,7 +8,7 @@
 
 ### 🤵‍♂️ About Me 
 
-I am currently working as Senior Software Developer at [@Decision Point Analytics](https://decisionpoint.ai/), I have a strong background in the information technology and services industry. I am skilled in several programming languages and technologies, including SQL, Python, Flask, Django, Java, Azure, and AWS. My role involves contributing to the development of important software projects and managing various aspects of the software development lifecycle. I am always excited about open source projects and collaborations. I love learning new things and sharing with the community.
+I am currently working as Lead Software Developer at [@Decision Point Analytics](https://decisionpoint.ai/), I have a strong background in the information technology and services industry. I am skilled in several programming languages and technologies, including SQL, Python, Flask, Django, Java, Azure, and AWS. My role involves contributing to the development of important software projects and managing various aspects of the software development lifecycle. I am always excited about open source projects and collaborations. I love learning new things and sharing with the community.
 <br/>
 
 ## 👨‍💻 Languages and Tools
